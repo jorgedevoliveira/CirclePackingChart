@@ -1,11 +1,11 @@
 [
     {
-      "name": "OGRAX",
+      "name": "Indonesia",
       "id": 10
     },
     {
-      "name": "Samuel Gonçalves ",
-      "id": 1,
+      "name": "R. Budi Hartono ",
+      "id": 99,
       "parent": 10,
       "country": "Indonesia",
       "source": "banking, tobacco",
@@ -13,7 +13,7 @@
       "value": 23.2
     },
     {
-      "name": "Luis ambrosio ",
+      "name": "Michael Hartono ",
       "id": 104,
       "parent": 10,
       "country": "Indonesia",
@@ -21,40 +21,4 @@
       "industry": "Manufacturing ",
       "value": 22.3
     }
-    {
-      "name": "Marcos Uchida ",
-      "id": 104,
-      "parent": 10,
-      "country": "Indonesia",
-      "source": "banking, tobacco",
-      "industry": "Manufacturing ",
-      "value": 22.3
-    }
-    {
-      "name": "Cristiane Lima ",
-      "id": 104,
-      "parent": 10,
-      "country": "Indonesia",
-      "source": "banking, tobacco",
-      "industry": "Manufacturing ",
-      "value": 22.3
-    } 
-    {
-      "name": "Rodrigo Angeleli ",
-      "id": 104,
-      "parent": 10,
-      "country": "Indonesia",
-      "source": "banking, tobacco",
-      "industry": "Manufacturing ",
-      "value": 22.3
-    } 
-    {
-      "name": "Jorge Araujo ",
-      "id": 104,
-      "parent": 10,
-      "country": "Indonesia",
-      "source": "banking, tobacco",
-      "industry": "Manufacturing ",
-      "value": 22.3
-    }    
 ]
