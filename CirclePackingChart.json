@@ -4,11 +4,13 @@
       "id": 10
     },
     {
-      "name": "R. Budi Hartono ",
-
+      "name": "Jorge",
+      "id": 99,
       "parent": 10,
-
-      "value": 23.2
+      "country": "Indonesia",
+      "source": "banking, tobacco",
+      "industry": "Finance & Investments ",
+      "Status": "Ativo"
     },
     {
       "name": "Michael Hartono ",
