@@ -38,9 +38,15 @@
       "value": 23.2
     },
     {
-      "name": "Jorge Araujo ",
+      "name": "Guilherme Hager ",
       "id": 104,
       "parent": 2,
       "value": 5
     },
+    {
+      "name": "Jorge Araujo ",
+      "id": 104,
+      "parent": 2,
+      "value": 5
+    }    
 ]
